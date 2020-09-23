@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: prep_fitness_development
+  pool: 2
